@@ -8,7 +8,7 @@ title: README
 > This is a book written in Gitbook and hosted with Netlify.
 
 <!-- Markdown snippet -->
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/DemoMacro/Hexo-NetlifyCMS/)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/neuromancer1729/Gitbook-NetlifyCMS/)
 
 ### Quick Start
 
